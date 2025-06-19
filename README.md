@@ -10,8 +10,7 @@ Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sis
 
 ## 👨‍💻 Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Estácio.
-- 🔄 Em transição de carreira para **Desenvolvimento Front-End**.
-- 🚀 Buscando uma oportunidade como **Dev Front-End Júnior**.
+- 🔄 Em transição de carreira, buscando uma oportunidade como **Dev Front-End Júnior**.
 - 💡 Focado em criar interfaces acessíveis, responsivas e com ótima experiência de usuário.
 
 ## 🎯 Fora do código
@@ -28,21 +27,12 @@ Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sis
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" width="40" height="40"/> &nbsp;
 
 ---
 
 ## 📚 Atualmente aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> &nbsp;
-
----
-
-## 🚀 Projetos Acadêmicos
-
-- 💼 [Redes Sociais](https://https://devdiegose.github.io/projeto-social/) — HTML, CSS, JavaScript
 
 ---
 
