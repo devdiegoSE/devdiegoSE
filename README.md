@@ -41,7 +41,12 @@ Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sis
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devdiegoSE&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devdiegoSE&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devdiegoSE&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdiegoSE&theme=tokyonight&hide_border=false"/>
 </div>
+
+
+![devdiegoSE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdiegoSE&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
