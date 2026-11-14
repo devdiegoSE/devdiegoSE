@@ -3,20 +3,26 @@
   Olá! Bem-vindo(a) ao meu perfil! 👨‍💻
 </h1>
 
-Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio. Estou em transição de carreira com foco no **Desenvolvimento Front-End**.  
-✨ Apaixonado por tecnologia, estou em busca de uma **oportunidade como Desenvolvedor Front-End Júnior** para aplicar minhas habilidades, crescer profissionalmente e contribuir com projetos incríveis!
+Sou **Diego Araujo**, formado em **Análise e Desenvolvimento de Sistemas** (Estácio). Venho de **operações aéreas e suporte técnico** e estou em transição para **Desenvolvimento Front-End**. Busco minha primeira oportunidade como **Dev Front-End Júnior**.
 
 ---
 
 ## 👨‍💻 Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Estácio.
 - 🔄 Em transição de carreira, buscando uma oportunidade como **Dev Front-End Júnior**.
-- 💡 Focado em criar interfaces acessíveis, responsivas e com ótima experiência de usuário.
+- 💡 Aprendendo a criar interfaces responsivas e acessíveis.
 
 ## 🎯 Fora do código
 - 🙏 Adoro ir à igreja com a minha família.
 - ⚽ Gosto de jogar futebol.
 - 🎮 Curto jogos variados.
+
+---
+
+## 🚀 Projetos
+- [Portfólio](cole-o-link-aqui): HTML e CSS
+- Painel de aeroporto: em breve (React)
+- Site da Helptech: em breve
 
 ---
 
@@ -36,6 +42,7 @@ Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sis
 
 ---
 
+<!--
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -44,7 +51,7 @@ Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sis
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdiegoSE&theme=tokyonight&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiegoSE&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
-
+-->
 
 ---
 
@@ -59,5 +66,5 @@ Meu nome é **Diego Araujo**, sou formado em **Análise e Desenvolvimento de Sis
 
 ---
 
-🧠 *“A persistência realiza o impossível.” – Provérbio Chinês*  
+✝️ *“Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.” – Provérbios 16:3*
 ✨ Obrigado por visitar meu perfil!
