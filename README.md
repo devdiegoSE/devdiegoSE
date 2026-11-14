@@ -20,7 +20,7 @@ Sou **Diego Araujo**, formado em **Análise e Desenvolvimento de Sistemas** (Est
 ---
 
 ## 🚀 Projetos
-- [Portfólio](cole-o-link-aqui): HTML e CSS
+- [Portfólio](https://devdiegose.github.io/portfolio/): HTML e CSS
 - Painel de aeroporto: em breve (React)
 - Site da Helptech: em breve
 
